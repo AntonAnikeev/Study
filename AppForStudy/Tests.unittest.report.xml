@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-12" time="22:17:19">
+  <environment nunit-version="1.0.0.0" clr-version="4.0.30319.36366" os-version="Microsoft Windows NT 6.3.9600.0" platform="Win32NT" cwd="F:\Projects\Study\AppForStudy\packages\NunitRunnerTask.2.0.11\build\Nunit" machine-name="ANTON" user="Anton1" user-domain="ANTON" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="Tests.dll" executed="True" result="Success" success="False" time="0.000" asserts="">
+    <properties>
+      <property name="_SKIPREASON" value="No suitable tests found in 'F:\Projects\Study\AppForStudy\Tests\bin\Debug\Tests.dll'.&#xA;Either assembly contains no tests or proper test driver has not been found." />
+    </properties>
+    <reason>
+      <message><![CDATA[No suitable tests found in 'F:\Projects\Study\AppForStudy\Tests\bin\Debug\Tests.dll'.
+Either assembly contains no tests or proper test driver has not been found.]]></message>
+    </reason>
+    <results />
+  </test-suite>
+</test-results>
